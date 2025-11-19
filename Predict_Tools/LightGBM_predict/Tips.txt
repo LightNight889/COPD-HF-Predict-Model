@@ -1,0 +1,6 @@
+(1) The py prediction code file should be placed in the same directory as the pkl model file and the non standardized training set data, and the directory name should preferably be in Chinese 
+(2) Used libraries: tkinter (Python built-in library) pandas、numpy、pickle、matplotlib、sklearn、warnings
+
+（1）py预测代码文件需与pkl模型文件、未标准化训练集数据放在同一目录下，且目录命名最好为中文
+（2）使用到的库：tkinter（python自带库）、pandas、numpy、pickle、matplotlib、sklearn、warnings
+
